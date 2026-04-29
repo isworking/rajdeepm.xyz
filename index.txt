@@ -6,8 +6,8 @@ which is why my personal webpage is just a single text file. No HTML, CSS, or JS
 just straight-up simplicity.
 
 Posts:
-	· How to navigate this site. And why there's no HTML, CSS, or JS. (goto /navigate)
 	· EDN: The beautiful config format no one uses. (goto /edn)
+	· How to navigate this site. And why there's no HTML, CSS, or JS. (goto /navigate)
 
 # Skills
 
@@ -28,7 +28,7 @@ Posts:
 - GPG: goto /gpg[2]
 - SSH: goto /ssh[3]
 
-GitHub: rustdevbtw[4]
+GitHub: isworking[4]
 
 Feel free to reach out or connect with me through any of the above channels.
 
@@ -40,4 +40,4 @@ Thanks for stopping by!
 [1]: mailto:nobody@rajdeepm.xyz
 [2]: https://rajdeepm.xyz/gpg
 [3]: https://rajdeepm.xyz/ssh
-[4]: https://github.com/rustdevbtw
+[4]: https://github.com/isworking
